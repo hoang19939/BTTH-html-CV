@@ -1,0 +1,27 @@
+.content {
+    background-color: white;
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    height: 100vh;
+}
+.resume {
+    background-color: aqua;
+}
+.setting {
+    background-color: dodgerblue;
+
+}
+
+img {
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+
+}
+.fas {
+    color: blue;
+
+}
